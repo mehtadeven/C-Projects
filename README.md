@@ -86,4 +86,4 @@ git checkout -b feature-name
 
 📄 License
 
-This project is licensed under the [Insert License Name] License. See the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE).] License. See the LICENSE file for details.
