@@ -44,7 +44,7 @@
 <p>Clone the repository:</p>
 
 ```
-  git clone https://github.com/mehtadeven/C-Projects.git
+git clone https://github.com/mehtadeven/C-Projects.git
 ```
 
 <p>Navigate to the project directory:</p>
@@ -80,7 +80,7 @@ git checkout -b feature-name
 
   • Commit your changes and push the branch:
 ```
-    git push origin feature-name
+git push origin feature-name
 ```
   • Open a pull request.
 
